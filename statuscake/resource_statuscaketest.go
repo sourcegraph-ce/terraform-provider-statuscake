@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"github.com/DreamItGetIT/statuscake"
 	"github.com/hashicorp/terraform/helper/schema"
